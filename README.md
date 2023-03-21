@@ -1,5 +1,8 @@
 # Dashboard-Logistica
 
+![Dash Log](https://user-images.githubusercontent.com/84351648/226502390-60cd9746-3e15-4155-9687-63e3e359a802.gif)
+
+
 Estrutura da Base de Dados:
 
 - A base de dados está registrada no arquivo DB_Logistica.xlsx.
